@@ -16,7 +16,7 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 
 - Remote Desktop Protocol (RDP) is used to connect to the virtual machines. (For this demonstration I use the RDP app in the Microsoft Store). 
 
--Windows Event Viewer to view the logs showing the failed authentication attempts.
+- Windows Event Viewer to view the logs showing the failed authentication attempts.
 
 
 <h2>Operating Systems Used </h2>
