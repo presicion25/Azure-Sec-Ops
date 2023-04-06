@@ -29,8 +29,8 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 
 1. Part one below I complete the follwing:
 
-- I demonstrate the install of MS SQL Server 
 - Configure the VM firewall too accept all inbound traffic
+- The install of MS SQL Server 
 - Turn off windows firewall
 - The install of SQL Server Management Studio 
 - Enable logging for the SQL server to be ported into event viewer
