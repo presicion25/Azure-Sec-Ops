@@ -49,7 +49,7 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 
 [![Part 1](https://i.vimeocdn.com/video/1650064553-0578d5b933051abaa0dc9628a65d599e7605b3e2ff5f627fc168d9e7b3f471dc-d_295x166?r=pad)](https://vimeo.com/815395656/7eff005a6a "Azure Lab Part 2")
 
-This is t he end of the lab. I hope it was helpful.
+<b>This is the end of the lab. I hope it was helpful.</b>
 
 
 <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
