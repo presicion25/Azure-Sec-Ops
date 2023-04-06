@@ -41,7 +41,7 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 <br />
 
 
-2. Part two below I complete the follwing:
+2. In Part two below I complete the following:
 
 - Attempt to RDP five times into the main VM from the attack VM using the wrong credentials
 - RDP into the main VM from the attack VM using the correct credentials
@@ -49,6 +49,8 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 
 [![Part 1](https://i.vimeocdn.com/video/1650064553-0578d5b933051abaa0dc9628a65d599e7605b3e2ff5f627fc168d9e7b3f471dc-d_295x166?r=pad)](https://vimeo.com/815395656/7eff005a6a "Azure Lab Part 2")
 
+
+<h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
 
 
 
