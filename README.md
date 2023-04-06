@@ -36,7 +36,7 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 - Enable logging for the SQL server to be ported into event viewer
 - Test logging in event viewer
 
-[![Part 1](https://i.vimeocdn.com/video/1650064177-5193760ddb02d0d7f185e909b0eab8bf2d3271187ccbf9cb2452f964ae8e4d4e-d_295x166?r=pad)](https://vimeo.com/815368596 "Azure Lab Part 1")
+[![Part 1](https://i.vimeocdn.com/video/1650149187-dbc92c7f41fefa893af4cea7af7745ac8e5230cceb54b97206d23413472315d2-d_295x166?r=pad)](https://vimeo.com/815368596 "Azure Lab Part 1")
 <br />
 <br />
 
