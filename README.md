@@ -32,7 +32,7 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 - Configure the VM firewall too accept all inbound traffic
 - The install of MS SQL Server 
 - Turn off windows firewall
-- The install of SQL Server Management Studio 
+- The install of SQL Server Management Studio (SSMS)
 - Enable logging for the SQL server to be ported into event viewer
 - Test logging in event viewer
 
