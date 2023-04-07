@@ -54,15 +54,3 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 
 <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
 
-
-
-
-
-
-
-
-
-
-
-
-
