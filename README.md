@@ -26,6 +26,14 @@ In this tutorial I demonstrate the install of MS SQL Server on a VM and the fail
 
 <h2>Video Demonstrations</h2>
 
+Click below for Video Demonstrations:
+ 
+ <details close>
+
+<div>
+
+</summary>
+
 
 1. Part one below I complete the follwing:
 
